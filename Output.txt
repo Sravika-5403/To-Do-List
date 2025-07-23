@@ -1,0 +1,242 @@
+Enter your Email Address
+Sravikap1@gmail.com
+Enter your Name
+Sravika
+Create your userID
+101
+Create your password
+Sravs@5403
+Sravika Registration Sucessful
+Enter your userID
+101
+Enter your Password
+Sravs@5403
+You are succesfully logged in
+===============TO-Do-LIST DASHBOARD================
+Welcome 101 Sravika
+1:Create a new TO-DO-LIST
+2:Add a new task in TO-DO-LIST
+3:View all TO-DO-LIST Tasks
+4:Edit a task in TO-DO-LIST
+5:Delete a TO-DO-LIST task
+6:Update TO-DO-LIST task status
+7:Exit
+Enter your choice:
+1
+Current date: 2025-07-23
+Enter Title: get groceries
+Enter Target Date (YYYY-MM-DD): 2025-07-24
+Enter Status of your task: To-Do
+Task added successfully!
+===============TO-Do-LIST DASHBOARD================
+Welcome 101 Sravika
+1:Create a new TO-DO-LIST
+2:Add a new task in TO-DO-LIST
+3:View all TO-DO-LIST Tasks
+4:Edit a task in TO-DO-LIST
+5:Delete a TO-DO-LIST task
+6:Update TO-DO-LIST task status
+7:Exit
+Enter your choice:
+2
+Enter number of tasks to add: 2
+
+Task 1
+Current date: 2025-07-23
+Enter Title: Submit Project
+Enter Target Date (YYYY-MM-DD): 2025-08-17
+Enter Status of your task: To-Do
+Task added successfully!
+
+Task 2
+Current date: 2025-07-23
+Enter Title: Complete Course
+Enter Target Date (YYYY-MM-DD): 2025-12-23
+Enter Status of your task: In-progress
+Task added successfully!
+===============TO-Do-LIST DASHBOARD================
+Welcome 101 Sravika
+1:Create a new TO-DO-LIST
+2:Add a new task in TO-DO-LIST
+3:View all TO-DO-LIST Tasks
+4:Edit a task in TO-DO-LIST
+5:Delete a TO-DO-LIST task
+6:Update TO-DO-LIST task status
+7:Exit
+Enter your choice:
+3
+Total tasks are: 3
+Task Number: 1
+Task Title: get groceries
+Task Due Date: 2025-07-24
+Task Status: To-Do
+Task Number: 2
+Task Title: Submit Project
+Task Due Date: 2025-08-17
+Task Status: To-Do
+Task Number: 3
+Task Title: Complete Course
+Task Due Date: 2025-12-23
+Task Status: In-progress
+===============TO-Do-LIST DASHBOARD================
+Welcome 101 Sravika
+1:Create a new TO-DO-LIST
+2:Add a new task in TO-DO-LIST
+3:View all TO-DO-LIST Tasks
+4:Edit a task in TO-DO-LIST
+5:Delete a TO-DO-LIST task
+6:Update TO-DO-LIST task status
+7:Exit
+Enter your choice:
+4
+Tasks are:
+1. get groceries 2025-07-24 To-Do
+2. Submit Project 2025-08-17 To-Do
+3. Complete Course 2025-12-23 In-progress
+Enter the task number you want to edit
+1
+Enter want you want to edit/update - Title/DueDate
+title
+Enter new Title to be Updated
+Get Groceries
+Title Succesfully Updated
+===============TO-Do-LIST DASHBOARD================
+Welcome 101 Sravika
+1:Create a new TO-DO-LIST
+2:Add a new task in TO-DO-LIST
+3:View all TO-DO-LIST Tasks
+4:Edit a task in TO-DO-LIST
+5:Delete a TO-DO-LIST task
+6:Update TO-DO-LIST task status
+7:Exit
+Enter your choice:
+4
+Tasks are:
+1. Get Groceries 2025-07-24 To-Do
+2. Submit Project 2025-08-17 To-Do
+3. Complete Course 2025-12-23 In-progress
+Enter the task number you want to edit
+3
+Enter want you want to edit/update - Title/DueDate
+DueDate
+Enter new DueDate to be Updated --> (YYYY-MM-DD)
+2025-11-14
+DueDate Succesfully Updated
+===============TO-Do-LIST DASHBOARD================
+Welcome 101 Sravika
+1:Create a new TO-DO-LIST
+2:Add a new task in TO-DO-LIST
+3:View all TO-DO-LIST Tasks
+4:Edit a task in TO-DO-LIST
+5:Delete a TO-DO-LIST task
+6:Update TO-DO-LIST task status
+7:Exit
+Enter your choice:
+3
+Total tasks are: 3
+Task Number: 1
+Task Title: Get Groceries
+Task Due Date: 2025-07-24
+Task Status: To-Do
+Task Number: 2
+Task Title: Submit Project
+Task Due Date: 2025-08-17
+Task Status: To-Do
+Task Number: 3
+Task Title: Complete Course
+Task Due Date: 2025-11-14
+Task Status: In-progress
+===============TO-Do-LIST DASHBOARD================
+Welcome 101 Sravika
+1:Create a new TO-DO-LIST
+2:Add a new task in TO-DO-LIST
+3:View all TO-DO-LIST Tasks
+4:Edit a task in TO-DO-LIST
+5:Delete a TO-DO-LIST task
+6:Update TO-DO-LIST task status
+7:Exit
+Enter your choice:
+6
+Tasks are:
+1. Get Groceries 2025-07-24 To-Do
+2. Submit Project 2025-08-17 To-Do
+3. Complete Course 2025-11-14 In-progress
+Enter the task number for which status should be updated
+1
+Enter the Status yoy want to update
+Completed
+Status Successfully updated
+===============TO-Do-LIST DASHBOARD================
+Welcome 101 Sravika
+1:Create a new TO-DO-LIST
+2:Add a new task in TO-DO-LIST
+3:View all TO-DO-LIST Tasks
+4:Edit a task in TO-DO-LIST
+5:Delete a TO-DO-LIST task
+6:Update TO-DO-LIST task status
+7:Exit
+Enter your choice:
+3
+Total tasks are: 3
+Task Number: 1
+Task Title: Get Groceries
+Task Due Date: 2025-07-24
+Task Status: Completed
+Task Number: 2
+Task Title: Submit Project
+Task Due Date: 2025-08-17
+Task Status: To-Do
+Task Number: 3
+Task Title: Complete Course
+Task Due Date: 2025-11-14
+Task Status: In-progress
+===============TO-Do-LIST DASHBOARD================
+Welcome 101 Sravika
+1:Create a new TO-DO-LIST
+2:Add a new task in TO-DO-LIST
+3:View all TO-DO-LIST Tasks
+4:Edit a task in TO-DO-LIST
+5:Delete a TO-DO-LIST task
+6:Update TO-DO-LIST task status
+7:Exit
+Enter your choice:
+5
+Tasks are:
+1. Get Groceries 2025-07-24 Completed
+2. Submit Project 2025-08-17 To-Do
+3. Complete Course 2025-11-14 In-progress
+Enter the task number to delete
+1
+Task Get Groceries has been deleted.
+===============TO-Do-LIST DASHBOARD================
+Welcome 101 Sravika
+1:Create a new TO-DO-LIST
+2:Add a new task in TO-DO-LIST
+3:View all TO-DO-LIST Tasks
+4:Edit a task in TO-DO-LIST
+5:Delete a TO-DO-LIST task
+6:Update TO-DO-LIST task status
+7:Exit
+Enter your choice:
+3
+Total tasks are: 2
+Task Number: 1
+Task Title: Submit Project
+Task Due Date: 2025-08-17
+Task Status: To-Do
+Task Number: 2
+Task Title: Complete Course
+Task Due Date: 2025-11-14
+Task Status: In-progress
+===============TO-Do-LIST DASHBOARD================
+Welcome 101 Sravika
+1:Create a new TO-DO-LIST
+2:Add a new task in TO-DO-LIST
+3:View all TO-DO-LIST Tasks
+4:Edit a task in TO-DO-LIST
+5:Delete a TO-DO-LIST task
+6:Update TO-DO-LIST task status
+7:Exit
+Enter your choice:
+7
+Succesfully Logged out
