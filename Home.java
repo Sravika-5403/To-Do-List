@@ -15,12 +15,14 @@ public class Home {
 		System.out.println("4:Edit a task in TO-DO-LIST");
 		System.out.println("5:Delete a TO-DO-LIST task");
 		System.out.println("6:Update TO-DO-LIST task status");
+		System.out.println("7:Exit");
 		System.out.println("Enter your choice:");
 		choice = sc.nextInt();
+		sc.nextLine();
 		switch(choice)
 		{
 		case 1:
-			Create.createUser(u);
+			Create.createNewTask(u);
 			break;
 		case 2:
 			Add.addTask(u);
@@ -37,13 +39,19 @@ public class Home {
 		case 6:
 			Update.updateStatus(u);
 			break;
+		case 7:
+			System.out.println("Succesfully Logged out");
+			break;
+		default:
+			System.out.println("Invalid choice, Try again");
 		}
-		}while(choice!=6);
+		}while(choice!=7);
 	}
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("Please login");
+		//System.out.println("Please login");
 	}
 
 }
+
