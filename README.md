@@ -15,19 +15,19 @@ A To-Do List is a planning tool which is used to manage and control the tasks, e
 Enter your Email Address
 sravikap1@gmail.com
 Enter your Name
-Srvaika
+Sravika
 Create your userID
 101
 Create your password
 1234
-Srvaika Registration Sucessful
+Sravika Registration Sucessful
 Enter your userID
 101
 Enter your Password
 1234
 You are succesfully logged in
 ===============TO-Do-LIST DASHBOARD================
-Welcome 101 Srvaika
+Welcome 101 Sravika
 1:Create a new TO-DO-LIST
 2:Add a new task in TO-DO-LIST
 3:View all TO-DO-LIST Tasks
